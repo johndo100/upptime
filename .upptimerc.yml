@@ -8,7 +8,7 @@ sites:
 
 status-website:
   baseUrl: /upptime
-  name: John Do Status Website
+  name: Status Website
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
