@@ -4,7 +4,7 @@
     "url": "https://phonglan.vn",
     "icon": "https://icons.duckduckgo.com/ip3/phonglan.vn.ico",
     "slug": "phong-lan-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 970,
     "timeYear": 958,
     "dailyMinutesDown": {
+      "2024-12-12": 0,
       "2024-12-05": 39,
       "2024-11-24": 15,
       "2024-11-19": 254,
